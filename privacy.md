@@ -62,7 +62,7 @@ We do not process any other personal information. There are no accounts and no h
 
 ## 2. LEGAL BASES AND PURPOSE
 
-We process the text you submit only to provide the core function of the keyboard — checking Korean grammar or translating English into Korean — at your explicit request each time you tap Check or Translate. We do not use it for any other purpose.
+We process the text you submit only to provide the core function of the keyboard — checking Korean grammar or translating English into Korean — at your explicit request each time you tap Check or Translate. We do not use it for any other purpose. We process usage statistics (Section 1) on the basis of our legitimate interest in understanding how the keyboard is used and improving it; they never include your text.
 
 ## 3. WHEN AND WITH WHOM DO WE SHARE YOUR INFORMATION?
 
@@ -74,7 +74,7 @@ We keep none of your content: we operate no server that stores it. Your on-devic
 
 ## 5. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
-All network requests made by Check and Translate use encrypted connections (HTTPS/TLS). We store nothing on our servers — we operate none.
+All network requests made by Check and Translate, and the usage statistics sent to Mixpanel, use encrypted connections (HTTPS/TLS). We store nothing on our servers — we operate none.
 
 ## 6. WHAT ARE YOUR PRIVACY RIGHTS?
 
